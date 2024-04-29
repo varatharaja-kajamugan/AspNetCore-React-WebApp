@@ -1,6 +1,6 @@
 # Overview
 
-Web app template by the Microsoft Devices Software Experiences team.
+Web app template by the Microsoft Devices Software Experiences kognitiv Team
 
 # Client (front-end)
 
